@@ -1,10 +1,18 @@
-# SQL Learning Project
+# SQLBolt — SQL Learning Journey
 
-This repository contains my SQL learning journey and the practical exercises I completed while learning SQL.
+This repository contains my **SQL learning journey through SQLBolt**.
 
-I have completed **18 lessons** covering SQL fundamentals, querying, filtering, sorting, joins, NULL values, expressions, aggregate functions, and basic data manipulation.
+I completed **18 SQL lessons** from SQLBolt and practiced the concepts by solving the exercises and writing SQL queries.
 
-The purpose of this repository is to keep track of what I have learned and to practice SQL by writing and organizing queries for each lesson.
+The purpose of this repository is to keep a record of what I have learned and to continue improving my SQL skills through practice.
+
+## Source
+
+I learned these SQL concepts from:
+
+**SQLBolt — Learn SQL with simple, interactive exercises**
+
+[SQLBolt](https://sqlbolt.com/)
 
 ---
 
@@ -33,19 +41,21 @@ The purpose of this repository is to keep track of what I have learned and to pr
 
 ---
 
-## What I Learned
+## Topics I Learned
 
-Through these 18 lessons, I practiced:
+Through these 18 SQLBolt lessons, I practiced:
 
-* `SELECT` queries
-* Filtering data with conditions
-* Sorting query results
-* Query constraints
-* `JOIN` and `OUTER JOIN`
-* Working with `NULL` values
-* Expressions in SQL
+* `SELECT`
+* `WHERE`
+* Filtering data
+* Sorting with `ORDER BY`
+* Constraints
+* `JOIN`
+* `OUTER JOIN`
+* Working with `NULL`
+* SQL expressions
 * Aggregate functions
-* Understanding SQL query execution order
+* Query execution order
 * `INSERT`
 * `UPDATE`
 * `DELETE`
@@ -57,7 +67,7 @@ Through these 18 lessons, I practiced:
 
 ## Repository Structure
 
-Each lesson is stored in its own folder so that the learning process remains organized.
+Each lesson has its own folder containing my practice queries and solutions.
 
 ```text
 SQL-PROJECT/
@@ -68,14 +78,14 @@ SQL-PROJECT/
 ├── 04.Filtering and sorting Query results/
 ├── 05.Simple SELECT Queries/
 ├── 06.Multi-table queries with JOINs/
-├── 07. OUTER_JOINs/
+├── 07.OUTER JOINs/
 ├── 08.A short note on NULLs/
 ├── 09.Queries with expressions/
 ├── 10.Queries with aggregates (Pt. 1)/
 ├── 11.Queries with aggregates (Pt. 2)/
-├── 12. Order of execution of a Query/
+├── 12.Order of execution of a Query/
 ├── 13.Inserting rows/
-├── 14. Updating rows/
+├── 14.Updating rows/
 ├── 15.Deleting rows/
 ├── 16.Creating Table/
 ├── 17.Altering Table/
@@ -84,19 +94,15 @@ SQL-PROJECT/
 
 ---
 
-## Goal
-
-The goal of this repository is to build a strong foundation in SQL through continuous practice.
-
-I will continue adding more SQL lessons, queries, exercises, and projects as I progress.
-
----
-
 ## Progress
 
-**18 / 18 Lessons Completed**
+**18 / 18 SQLBolt Lessons Completed**
 
 `████████████████████` **100%**
+
+This repository represents my progress from learning the fundamentals of SQL to working with tables and basic data manipulation.
+
+I will continue adding more SQL practice and projects as I learn.
 
 ---
 
